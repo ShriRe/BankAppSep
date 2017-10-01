@@ -6,11 +6,16 @@ using System.Threading.Tasks;
 
 namespace BankApp
 {
-    
-        public enum StudentType
+    /// <summary>
+    /// Create Enum for own reference type 
+    /// Value type are those which store values more than one
+    /// Create outside the class inside Enum
+    /// </summary>
+        public enum TypeOfAccount
         {
+            Checking,
             Savings,
-            Current,
+            Loan,
             Fixed,
             
         }
@@ -36,8 +41,9 @@ namespace BankApp
             public decimal Balance { get; private set; }
             /// <summary>
             /// This holds the account type..
+            /// Use Enum as a Type of Account
             /// </summary>
-            public StudentType AccountType { get; set; }
+            public TypeOfAccount AccountType { get; set; }
             /// <summary>
             /// This holds the new account application created date
             /// </summary>

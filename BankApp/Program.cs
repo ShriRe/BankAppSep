@@ -12,14 +12,14 @@ namespace BankApp
         static void Main(string[] args)
     {
          {
-            #region Methods
+            #region Main Methods
             
             {
              //Instantiate an object use Var 
              var account = new Account();
            //account.AccountNumber = 1234;
-             account.EmailAddress = "shreerekha.dodla16@northwestu.edu";
-             account.AccountType = StudentType.Savings;
+             account.EmailAddress = "shreerekha@northwestu.edu";
+             account.AccountType = TypeOfAccount.Savings;
              // Account method
              var newBalance = account.Deposit(100);
              

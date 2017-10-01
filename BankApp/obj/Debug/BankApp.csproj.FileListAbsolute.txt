@@ -4,3 +4,9 @@ D:\BankApp\BankApp\BankApp\bin\Debug\BankApp.exe
 D:\BankApp\BankApp\BankApp\bin\Debug\BankApp.pdb
 D:\BankApp\BankApp\BankApp\obj\Debug\BankApp.exe
 D:\BankApp\BankApp\BankApp\obj\Debug\BankApp.pdb
+D:\MyGitHub\BankApp\BankApp\bin\Debug\BankApp.exe.config
+D:\MyGitHub\BankApp\BankApp\bin\Debug\BankApp.exe
+D:\MyGitHub\BankApp\BankApp\bin\Debug\BankApp.pdb
+D:\MyGitHub\BankApp\BankApp\obj\Debug\BankApp.csprojResolveAssemblyReference.cache
+D:\MyGitHub\BankApp\BankApp\obj\Debug\BankApp.exe
+D:\MyGitHub\BankApp\BankApp\obj\Debug\BankApp.pdb
